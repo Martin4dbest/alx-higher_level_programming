@@ -1,4 +1,4 @@
-#Solutions to Python related tasks
+<h1>Solutions to Python related tasks</h1>
 
 This repository is for the sprint 2 of the ALX Software Engineering Programme. During this sprint we will be learning and practicing higher level programming languages Python is the primary language we are going to be using.
 
