@@ -265,7 +265,7 @@ class test_square(unittest.TestCase):
         '''
         # self.assertEqual(self.s.id, "str")
         with self.assertRaises(TypeError):
-           self.s.update("str")
+           self.s.update("str") 
 
     def test_to_dict(self):
         '''
